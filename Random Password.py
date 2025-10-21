@@ -16,8 +16,3 @@ while True:
         break
     else:
         print('wrong choice')
-
-
-
-
-
